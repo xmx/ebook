@@ -11,11 +11,20 @@
 
 ## 网络
 
-[AMD WoL 技术白皮书](https://www.amd.com/system/files/TechDocs/20213.pdf)
+### WoL
+
+- [官方链接](https://www.amd.com/system/files/TechDocs/20213.pdf)
+
+- [本地备份](network/20213.pdf)
+
 
 ## Intel
 
-[Intel 开发手册](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf)
+### Intel 手册
+
+- [官方链接](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf)
+
+- [本地备份](intel/64-ia-32-architectures-software-developer-vol-3a-part-1-manual.pdf)
 
 ## 其它
 
