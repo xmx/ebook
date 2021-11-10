@@ -1,13 +1,16 @@
-# 资料链接
+# 资料索引
 
 [TOC]
 
 ## Windows
 
-[WMI](https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/cimwin32-wmi-providers)
+### WMI
 
-[Syscall](https://docs.microsoft.com/en-us/windows/win32/apiindex/api-index-portal) 
-[[中文版]](https://docs.microsoft.com/zh-cn/windows/win32/apiindex/api-index-portal)
+- [官方链接](https://docs.microsoft.com/en-us/windows/win32/cimwin32prov/cimwin32-wmi-providers)
+
+### Syscall
+
+- [官方链接](https://docs.microsoft.com/en-us/windows/win32/apiindex/api-index-portal) 
 
 ## 网络
 
