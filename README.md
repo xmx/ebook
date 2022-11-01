@@ -1,7 +1,5 @@
 # 资料索引
 
-[TOC]
-
 ## Windows
 
 ### WMI
@@ -31,5 +29,4 @@
 
 ## 其它
 
-[语义化版本](https://semver.org/) 
-[[中文版]](https://semver.org/lang/zh-CN/)
+[语义化版本](https://semver.org/)[[中文版]](https://semver.org/lang/zh-CN/)
