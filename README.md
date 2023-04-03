@@ -30,3 +30,7 @@
 ## 其它
 
 [语义化版本](https://semver.org/)[[中文版]](https://semver.org/lang/zh-CN/)
+
+[如何正确获取 HTTP 客户端 IP 地址](https://httpd.apache.org/docs/current/mod/mod_remoteip.html)
+
+[Gin issue #2473](https://github.com/gin-gonic/gin/issues/2473)
